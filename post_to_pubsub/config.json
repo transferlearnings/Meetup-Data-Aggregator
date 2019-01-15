@@ -1,0 +1,7 @@
+{
+  "rsvp":"http://stream.meetup.com/2/rsvps",
+  "photos":"http://stream.meetup.com/2/photos",
+  "open_venues":"http://stream.meetup.com/2/open_venues?trickle",
+  "open_events":"http://stream.meetup.com/2/open_events",
+  "event_comments":"http://stream.meetup.com/2/event_comments"
+}

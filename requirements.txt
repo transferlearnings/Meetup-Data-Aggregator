@@ -1,0 +1,9 @@
+requests == 2.20.0
+datetime == 4.3
+google-api-core == 1.7.0
+google-cloud-logging == 1.9.1
+google-cloud-pubsub == 0.39.1
+google-cloud-bigquery == 1.8.1
+google-api-python-client == 1.7.7
+google-cloud-storage == 1.13.2
+oauth2client == 4.1.3
